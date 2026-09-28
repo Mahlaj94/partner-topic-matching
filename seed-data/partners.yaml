@@ -1,0 +1,7 @@
+﻿partners:
+  - id: demo_partner
+    name: Example Robotics
+    domains:
+      - https://example.com
+    aliases:
+      - Example Robotics Ltd

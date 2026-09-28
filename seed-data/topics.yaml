@@ -1,0 +1,9 @@
+﻿topics:
+  - id: demo_topic
+    name: Digital twins for robotics
+    definition: Use of digital models to represent and monitor robotic systems.
+    synonyms:
+      - robotic digital twin
+      - virtual robot model
+    exclusions:
+      - unrelated gaming simulations

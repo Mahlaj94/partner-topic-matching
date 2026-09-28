@@ -1,0 +1,5 @@
+trafilatura>=1.7.0
+tldextract>=5.1.2
+pydantic>=2.7.0
+requests>=2.32.3
+beautifulsoup4>=4.12.3

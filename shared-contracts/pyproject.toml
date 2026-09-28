@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "shared-contracts"
+version = "0.1.0"
+description = "Shared models & API contracts for the Competence Matrix system"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.7.0",
+    "pydantic-settings>=2.2.1",
+    "typing-extensions>=4.9.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
